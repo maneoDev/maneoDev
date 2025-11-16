@@ -45,3 +45,13 @@
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" href="https://raw.githubusercontent.com/maneoDev/maneoDev/output/github-contribution-grid-snake-dark.svg">
+    
+    <source media="(prefers-color-scheme: light)" href="https://raw.githubusercontent.com/maneoDev/maneoDev/output/github-contribution-grid-snake.svg">
+    
+    <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/maneoDev/maneoDev/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
