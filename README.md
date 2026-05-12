@@ -5,10 +5,6 @@
   🐧 <strong>Emanuel Ferreira</strong><br>
 <span style="color:#66ffcc; font-size: 28px;"> Dev FullStack | IA Maker | Automations</span>
 </h1>
-<p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=maneoDev&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true&count_private=true&hide_rank=false"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maneoDev&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
-</p>
 <br>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
